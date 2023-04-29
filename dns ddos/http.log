@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2023-02-26-16-27-41
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1632239127.092961	CBRGJf26fx5ZNpzyCd	52.34.225.115	43096	10.10.10.10	80	1	GET	188.40.97.172:80	/	-	-	Go-http-client/1.1	-	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1632239127.343424	CaxbfNFzsTU7tOYh3	136.243.174.154	15738	10.10.10.10	9100	1	GET	node24.ferox.host:9100	/metrics	-	-	Prometheus/2.15.2+ds	-	0	0	-	-	-	-	(empty)	-	-	-	-	-	-	-	-	-
+#close	2023-02-26-16-27-41

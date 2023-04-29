@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ntp
+#open	2023-02-26-16-27-41
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	mode	stratum	poll	precision	root_delay	root_disp	ref_id	ref_time	org_time	rec_time	xmt_time	num_exts
+#types	time	string	addr	port	addr	port	count	count	count	interval	interval	interval	interval	string	time	time	time	time	count
+1632239137.450422	CWca1P2M9IJb4Ee8Q8	103.171.1.80	50796	10.10.10.10	123	4	3	0	16.000000	0.015625	1.000000	1.000000	\x00\x00\x00\x00	0.000000	0.000000	0.000000	1101309131.444112	0
+#close	2023-02-26-16-27-41
