@@ -50,3 +50,6 @@ https://www.malware-traffic-analysis.net/index.html :A huge thanks to this site 
 
 
 And a special thanks to our guide and mentor <b> Dr. Radhika B S </b> 
+
+# NOTE:
+For testing scripts for SYN FLOOD and HTTP DoS can fe found here : https://ordo.open.ac.uk/articles/dataset/HTTP_DoS_Dataset_in_PCAP_format_for_Wireshark/17206289
