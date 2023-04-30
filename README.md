@@ -46,7 +46,7 @@ For example "/opt/zeek/bin/zeek -Cr sshguess.pcap brtforce.zeek"
 <b>Harsh Rawat,Gaurav Agarwal,Amit Prakhar Pandey,Ashis J Kalthil </b>
 
 
-https://www.malware-traffic-analysis.net/index.html :A huge thanks to this site for helping us find out the pcaps and also knowledge to detect these attacks 
+https://www.malware-traffic-analysis.net/index.html :We extend our sincere gratitude to this site for providing us with the necessary pcaps and knowledge to detect these attacks.
 
 
 And a special thanks to our guide and mentor <b> Dr. Radhika B S </b> 
