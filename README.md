@@ -1,5 +1,12 @@
 # Intrusion-Detection-Using-Zeek
-Zeek Scripting for detecting various types of attacks including Password Guessing, HTTP Dos ,DNS DDos and SYN Flood Attack  
+Zeek Scripts for detecting various types of attacks including Password Guessing, HTTP Dos ,DNS DDos and SYN Flood Attack  
+
+
+Zeek (formerly known as Bro) is an open-source network security monitoring platform. It analyzes network traffic in real-time to detect and report on network events, such as malware infections, intrusion attempts, and network misconfigurations. Zeek uses a script-based approach to monitoring network traffic, where scripts are used to specify what data to collect and how to process it. This approach allows for flexible and customizable network monitoring, as users can write their own scripts to analyze network traffic specific to their environment.
+
+Zeek scripting refers to the process of writing scripts to define what data to capture and how to analyze it within Zeek. Zeek scripts are written in a high-level programming language that is specific to the platform, which provides access to a rich set of built-in functionality and data structures. This allows users to write scripts to extract and process specific data from network traffic, such as identifying specific network protocols or extracting data from specific packets. Zeek scripting also provides the ability to write custom scripts to detect and respond to specific security threats or events, enabling organizations to tailor their network monitoring to their specific security needs.
+
+
 <br>
 <b> Brute Force Attack </b> <br> 
 
