@@ -21,6 +21,12 @@ HTTP DoS is a type of cyber attack that floods a web server or web application w
 A SYN flood attack is a type of cyber attack that exploits a weakness in the TCP protocol by flooding a server with a high volume of incomplete TCP connection requests, causing it to become overwhelmed and unavailable.
 
 
+<b> DNS DDoS </b>
+
+
+DNS DDoS is a type of cyber attack that targets the Domain Name System (DNS) infrastructure by flooding DNS servers with a high volume of traffic, causing them to become overwhelmed and unavailable. This can be prevented through security measures such as rate-limiting, traffic filtering, and DNS caching, as well as keeping DNS server software up-to-date with the latest security patches.
+
+
 # Installation
 You must have installed zeek in your machine for running and executing the pcap files and zeek scripts.
 For downloading zeek you can refer too : https://zeek.org/get-zeek/
