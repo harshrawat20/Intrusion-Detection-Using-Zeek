@@ -49,7 +49,7 @@ For example "/opt/zeek/bin/zeek -Cr sshguess.pcap brtforce.zeek"
 https://www.malware-traffic-analysis.net/index.html :We extend our sincere gratitude to this site for providing us with the necessary pcaps and knowledge to detect these attacks.
 
 
-And a special thanks to our guide and mentor <b> Dr. Radhika B S </b> 
+And a special thanks to our guide and mentor <b> <a href="https://iiitdwd.ac.in/Dr.radhika.php" style="text-decoration:none" target="_blank">Dr. Radhika B S</a> </b> 
 
 # NOTE:
 Pcaps for testing scripts for SYN FLOOD and HTTP DoS can fe found here : https://ordo.open.ac.uk/articles/dataset/HTTP_DoS_Dataset_in_PCAP_format_for_Wireshark/17206289
